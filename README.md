@@ -111,7 +111,7 @@ If you like this project, please don't forget to give it a ⭐️
 
 <!-- ACKNOWLEDGEMENTS -->
 
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
+## 🙏 Acknowledgments <a name="Nelson Sakwa"></a>
 
 > Give credit to everyone who inspired your codebase.
 
