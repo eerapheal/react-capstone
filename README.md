@@ -30,7 +30,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link]()
+- [Live Demo Link](https://zingy-cactus-5d6941.netlify.app/)
 
 ## 🚶‍♂️🚶‍♂️Walk through video clip
 - [Walk through](https://www.loom.com/share/a3c817a67188463f8d626243434ceb83)
