@@ -22,3 +22,21 @@ body {
     sans-serif;
 }
 
+.nav_bar {
+  margin: 2em 0.5em;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: #fff;
+}
+
+#arrow-left {
+  color: #fff;
+  font-size: 3em;
+}
+
+.icons {
+  display: flex;
+  gap: 1em;
+}
+
