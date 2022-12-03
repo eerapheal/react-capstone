@@ -7,8 +7,7 @@ import {
   faSearch,
 } from '@fortawesome/free-solid-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { getCountries } from '../redux/information';
-/* eslint-disable */
+import { getCountries } from '../redux/Details';
 
 const Home = () => {
   const dispatch = useDispatch();
@@ -23,16 +22,15 @@ const Home = () => {
 
   return (
     <div>
-      {status ===
-       'pending' ? (
+      {status === 'pending' ? (
         <div className="pending">
-          <h3> Loadings...</h3>
+          <h3> Loading...</h3>
         </div>
       ) : (
         <>
           <div className="search">
             <div className='search_element'>
-            <h1 className="live_preview">Live Preview</h1>
+            <h1 className="live_preview">Live preview</h1>
             <input
               type="text"
               value={search}
