@@ -11,7 +11,7 @@ const Heading = () => (
     <Link to="/">  
       <FontAwesomeIcon icon={faCircleArrowLeft} id="arrow-left" />
     </Link>
-    <h2>COVID-19 Updates</h2>
+    <h3>COVID-19 Updates</h3>
     <div className="icons">
       <FontAwesomeIcon icon={faMicrophone} className="icon_microphone" />
       <FontAwesomeIcon icon={faGear} className="icon_gear" />
