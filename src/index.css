@@ -9,7 +9,7 @@
 
 body {
   margin: 0;
-  background-color: rgb(126, 1, 95);
+  background-color: rgb(231, 143, 202);
   font-family:
     'Segoe UI',
     'Roboto',
@@ -40,3 +40,100 @@ body {
   gap: 1em;
 }
 
+.search {
+  display: flex;
+}
+
+.search_element {
+  display: flex;
+  padding: 10px;
+}
+
+.search_icon {
+  margin-top: 5px;
+  margin-left: -20px;
+}
+
+.search_input{
+  padding: 3px;
+  border: none;
+  padding: 3px 12px;
+}
+
+.live_preview {
+  color: #fff;
+  font-size: 16px;
+  margin-right: 40px;
+}
+
+.display_flex {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  place-items: center;
+  gap: 0.1em;
+}
+
+.country_display {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 4em;
+  align-items: flex-end;
+  color: #fff;
+  width: 100%;
+  height: 10em;
+}
+
+.update_countries {
+  padding-right: 1em;
+  padding-bottom: 1em;
+}
+
+.country_display:nth-child(odd) {
+  background-color: rgb(243, 13, 224);
+}
+
+.country_display:nth-child(even) {
+  background-color: rgb(236, 52, 144);
+}
+
+.main {
+  float: inline-start;
+  padding: 3em;
+  color: #fff;
+}
+
+.details {
+  background-color: rgb(236, 29, 188);
+}
+
+.self_display {
+  margin-top: 1rem;
+  height: 90vh;
+  align-items: center;
+}
+
+.self_display h1 {
+  color: #fff;
+  text-align: center;
+  background-color: rgb(39, 23, 32);
+  font-size: 15px;
+}
+
+.arrow-right {
+  color: rgb(36, 166, 206);
+  padding: 10px;
+}
+
+.self_display p {
+  padding: 1em;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: white;
+  font-size: 20px;
+}
+
+.self_display p:nth-child(odd) {
+  background-color: rgb(152, 2, 102);
+}

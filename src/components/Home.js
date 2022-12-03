@@ -36,7 +36,7 @@ const Home = () => {
               value={search}
               onChange={(e) => setSearch(e.target.value)}
               placeholder="search"
-              className="input"
+              className="search_input"
             />
             <FontAwesomeIcon icon={faSearch} className="search_icon" />
             </div>
