@@ -29,7 +29,7 @@ exports[`snapshot testing snapshot for App 1`] = `
       </svg>
     </a>
     <h3>
-      COVID-19 Updates
+      COVID-19 Updates for all Continent
     </h3>
     <div
       className="icons"

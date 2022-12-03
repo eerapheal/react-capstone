@@ -112,7 +112,8 @@ If you like this project, please don't forget to give it a ⭐️
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="Nelson Sakwa"></a>
-
+ I would like to thank (Nelson Sakwa)[https://www.behance.net/sakwadesignstudio] for his magical design
+ 
 > Give credit to everyone who inspired your codebase.
 
 I would like to thank...
