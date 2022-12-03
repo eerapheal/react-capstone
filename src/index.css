@@ -54,15 +54,14 @@ body {
   margin-left: -20px;
 }
 
-.search_input{
-  padding: 3px;
+.search_input {
   border: none;
-  padding: 3px 12px;
+  padding: 4px 12px;
 }
 
 .live_preview {
   color: #fff;
-  font-size: 16px;
+  font-size: 17px;
   margin-right: 40px;
 }
 
